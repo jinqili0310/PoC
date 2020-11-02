@@ -2,12 +2,12 @@
  * @Author: Jinqi Li
  * @Date: 2020-10-11 01:48:46
  * @LastEditors: Jinqi Li
- * @LastEditTime: 2020-11-02 16:15:21
+ * @LastEditTime: 2020-11-02 16:17:20
  * @FilePath: /PoC/README.md
 -->
 # PoC
 ## BookStore Demo
-#### Online bookstore for uploading and shopping products.
+#### Online bookstore with user management, uploading products, shopping and security payment modules.
 ## Installation & Usage
 * #### Replace the mongoDB info in </server/config/dev.js> file
 * #### `yarn` under the root directory
